@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5mPlSxViJCRPgtegFUDgECZGj9X3oXQfHolrALLh1q3z959xO/kn58dDaAmVv//1RzeIHkkLlT3WHRQAJuCttw==",
+  "dgSpecHash": "H75QCKhS8eXE1uv7Qyj9TecGU9WasAuRSYvzy5uTTtNwqvRaqGpbqWM+Hv5pLHCmLzHKK6+I1yOTj++afx67tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CChambers\\source\\repos\\BankAccount\\CSharpBankAccount\\CSharpBankAccount.csproj",
+  "projectFilePath": "C:\\Users\\CChambers\\source\\repos\\BankAccount\\CSharpBankAccount\\BankAccountConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

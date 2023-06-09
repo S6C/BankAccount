@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CChambers\\source\\repos\\BankAccount\\CSharpBankAccount\\CSharpBankAccount.csproj",
-      "projectName": "CSharpBankAccount",
-      "projectPath": "C:\\Users\\CChambers\\source\\repos\\BankAccount\\CSharpBankAccount\\CSharpBankAccount.csproj",
+      "projectUniqueName": "C:\\Users\\CChambers\\source\\repos\\BankAccount\\CSharpBankAccount\\BankAccountConsole.csproj",
+      "projectName": "BankAccountConsole",
+      "projectPath": "C:\\Users\\CChambers\\source\\repos\\BankAccount\\CSharpBankAccount\\BankAccountConsole.csproj",
       "packagesPath": "C:\\Users\\CChambers\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\CChambers\\source\\repos\\BankAccount\\CSharpBankAccount\\obj\\",
       "projectStyle": "PackageReference",
