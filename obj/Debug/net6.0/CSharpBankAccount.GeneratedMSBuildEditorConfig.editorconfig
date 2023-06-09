@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CSharpBankAccount
-build_property.ProjectDir = C:\Users\CChambers\source\repos\CSharpBankAccount\
+build_property.ProjectDir = C:\Users\CChambers\source\repos\BankAccount\CSharpBankAccount\
